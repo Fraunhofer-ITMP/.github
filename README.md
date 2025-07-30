@@ -1,7 +1,7 @@
 # Welcome to Fraunhofer ITMP Hamburg!  
 This is the official GitHub organization section representing the **Hamburg site of the Fraunhofer Institute for Translational Medicine and Pharmacology (ITMP)**.
 
-The Hamburg site is a world-leading research hub specializing in **small-molecule drug discovery, high-throughput screening, and medical data science**. We combine cutting-edge laboratory techniques with advanced computational analysis to innovate diagnostics and therapies, especially for immune-mediated, neurodegenerative, and infectious diseases.
+The Hamburg site is a leading research hub specializing in **small-molecule drug discovery, high-throughput screening, and medical data science**. We combine cutting-edge laboratory techniques with advanced computational analysis to innovate diagnostics and therapies, especially for immune-mediated, neurodegenerative, and infectious diseases.
 
 ## About Us
 
@@ -11,43 +11,38 @@ The Hamburg site is a world-leading research hub specializing in **small-molecul
   - Complex in vitro test systems using pluripotent stem cells and organoids, including blood-brain barrier models  
   - Advanced medical data science infrastructure featuring the Fraunhofer Edge Cloud, knowledge graphs, machine learning, and FAIR data principles  
   - Agile interdisciplinary teams in Stem Cell Biology, High-Throughput Screening, Infection Biology, and Medical Data Science  
-- **Collaborations:** Strong partnerships with University Medical Center Hamburg-Eppendorf (renal and neuroimmunology research), Bernhard Nocht Institute for Tropical Medicine (structural virology), DESY (protein structure elucidation), and involvement in EU-OPENSCREEN and EU research projects for drug repurposing
+- **Collaborations:** Strong partnerships with [University Medical Center Hamburg-Eppendorf](https://www.uke.de/index.html) (renal and neuroimmunology research), [Bernhard Nocht Institute for Tropical Medicine](https://www.bnitm.de/en) (structural virology), [DESY](https://desy.de/index_ger.html) (protein structure elucidation), and involvement in [EU-OPENSCREEN](https://www.eu-openscreen.eu/) and EU research projects for drug repurposing, and many more.
 
-As an active member of the open-science and FAIR data communities, we align our projects with these principles to foster transparency and reproducibility.
+As an active member of the open-science and [FAIR](https://www.go-fair.org/fair-principles/) data communities, we vouch to align our projects with these principles to foster transparency and reproducibility.
 
 ## Our Areas of Innovation
+Fraunhofer ITMP is organized in 9 cross-site and cross-divisional innovation areas, which provide a transdisciplinary and flexible approach to research using new technologies, disease and treatment concepts. The agile teams span the research divisions Drug Discovery, Preclinical and Clinical Research, where new disease related research concepts developed and examined. Please find more [here](https://www.itmp.fraunhofer.de/en/innovation-areas.html).
 
+## Our Research Divisions
+Fraunhofer ITMP is organized in 3 cross-site research divisions.
 <div align="center" style="white-space: nowrap;">
-  <div style="display: inline-block; margin: 0 15px; text-align: center; vertical-align: top;">
-    <a href="https://www.itmp.fraunhofer.de/en/innovation-areas/drug_screening_repurposing.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Drug Screening & Substance Repurposing" src="../images/areas_of_innovations/drug_screening_substance_repurposing.PNG" width="150" /><br>
-      <strong>Drug Screening & Substance Repurposing</strong>
+  <div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
+    <a href="https://www.itmp.fraunhofer.de/en/institute/DrugDiscovery.html" target="_blank" rel="noopener noreferrer">
+      <img alt="Drug Discovery" src="images/drug_discovery.PNG" width="180" /><br>
     </a>
-  </div><div style="display: inline-block; margin: 0 15px; text-align: center; vertical-align: top;">
-    <a href="https://www.itmp.fraunhofer.de/en/innovation-areas/immunpathologie_immuntoleranz.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Immunopathology & Immune Tolerance" src="../images/areas_of_innovations/immunopathology.PNG" width="150" /><br>
-      <strong>Immunopathology & Immune Tolerance</strong>
+  </div><div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
+    <a href="https://www.itmp.fraunhofer.de/en/institute/PraeklinischeForschung.html" target="_blank" rel="noopener noreferrer">
+      <img alt="Preclinical Research" src="images/preclinical_research.PNG" width="180" /><br>
     </a>
-  </div><div style="display: inline-block; margin: 0 15px; text-align: center; vertical-align: top;">
-    <a href="https://www.itmp.fraunhofer.de/en/innovation-areas/OMICStechnologien.html" target="_blank" rel="noopener noreferrer">
-      <img alt="OMICS Technologies" src="../images/areas_of_innovations/omics_tech.PNG" width="150" /><br>
-      <strong>OMICS Technologies</strong>
-    </a>
-  </div><div style="display: inline-block; margin: 0 15px; text-align: center; vertical-align: top;">
-    <a href="https://www.itmp.fraunhofer.de/en/innovation-areas/medical_data_science.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Medical Data Science" src="../images/areas_of_innovations/medical_data_science.PNG" width="150" /><br>
-      <strong>Medical Data Science</strong>
+  </div><div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
+    <a href="https://www.itmp.fraunhofer.de/en/institute/KlinischeForschung.html" target="_blank" rel="noopener noreferrer">
+      <img alt="Clinical Research" src="images/clinical_research.PNG" width="180" /><br>
     </a>
   </div>
-  </div><div style="display: inline-block; margin: 0 15px; text-align: center; vertical-align: top;">
-    <a href="https://www.itmp.fraunhofer.de/en/innovation-areas/cross-funktionales_imaging.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Cross-functional Imaging" src="../images/areas_of_innovations/cross_functional_imaging.PNG" width="150" /><br>
-      <strong>Cross-functional Imaging</strong>
-    </a>
 </div>
 
-### All projects at a glance
-A collective front-face and an interactive playground of our repositories can be found here (inserting datascience toolkit). 
+### Data Science Toolkit: All Our Tools in One Place
+A collective front-face and an interactive playground of our repositories can be found [here](https://fraunhofer-itmp-ds-toolkit.serve.scilifelab.se/).
+<div align="center">
+  <a href="https://fraunhofer-itmp-ds-toolkit.serve.scilifelab.se/" target="_blank" rel="noopener noreferrer">
+    <img alt="Data Science Toolkit" src="images/dstoolkit.png" width="400" /><br>
+  </a>
+</div>
 
 ## Collaboration & Community
 
