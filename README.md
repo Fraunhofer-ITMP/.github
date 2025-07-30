@@ -23,15 +23,15 @@ Fraunhofer ITMP is organized in 3 cross-site research divisions.
 <div align="center" style="white-space: nowrap;">
   <div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
     <a href="https://www.itmp.fraunhofer.de/en/institute/DrugDiscovery.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Drug Discovery" src="images/drug_discovery.PNG" width="180" /><br>
+      <img alt="Drug Discovery" src="images/drug_discovery.PNG" width="120" /><br>
     </a>
   </div><div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
     <a href="https://www.itmp.fraunhofer.de/en/institute/PraeklinischeForschung.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Preclinical Research" src="images/preclinical_research.PNG" width="180" /><br>
+      <img alt="Preclinical Research" src="images/preclinical_research.PNG" width="120" /><br>
     </a>
   </div><div style="display: inline-block; margin: 0 20px; text-align: center; vertical-align: top;">
     <a href="https://www.itmp.fraunhofer.de/en/institute/KlinischeForschung.html" target="_blank" rel="noopener noreferrer">
-      <img alt="Clinical Research" src="images/clinical_research.PNG" width="180" /><br>
+      <img alt="Clinical Research" src="images/clinical_research.PNG" width="120" /><br>
     </a>
   </div>
 </div>
